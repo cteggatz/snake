@@ -1,0 +1,13 @@
+html{
+    text-align: center;
+    align-items: center;
+    background-color:black;
+    color: white;
+}
+p, h3{
+    text-align:left;
+    margin-left: 325px;
+}
+#canvas{
+    border: 2px ridge white;
+}
